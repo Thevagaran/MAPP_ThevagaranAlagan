@@ -23,7 +23,7 @@ public class P08RecyclerView extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_p08_recycler_view);
         for (int i = 0; i < 20; i++) {
-            mWordList.addLast("Word " + mCount++);
+            mWordList.addLast("Theva " + mCount++);
             Log.d("WordList", mWordList.getLast());
         }
         // Get a handle to the RecyclerView.
@@ -43,7 +43,7 @@ public class P08RecyclerView extends AppCompatActivity {
             public void onClick(View view) {
                 int wordListSize = mWordList.size();
 // Add a new word to the end of the wordList.
-                mWordList.addLast("+ Word " + wordListSize);
+                mWordList.addLast("+ Theva  " + wordListSize);
 // Notify the adapter, that the data has changed so it can
 // update the RecyclerView to display the data.
                 mRecyclerView.getAdapter().notifyItemInserted(wordListSize);
