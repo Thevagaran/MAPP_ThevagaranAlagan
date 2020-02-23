@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">MAPP_ThevagaranAlagan</string>
+    <string name="button_main">Send</string>
+    <string name="text_header">Message Received</string>
+    <string name="editText_main">Send</string>
+    <string name="editText_second">Reply</string>
+    <string name="text_header_reply">No reply</string>
+
+    <string name="edittext_uri">http://developer.android.com</string>
+    <string name="button_uri">Open Website</string>
+    <string name="edittext_loc">Golden Gate Bridge</string>
+    <string name="button_loc">Open Location</string>
+    <string name="edittext_share">\'Twas brillig and the slithy toves</string>
+    <string name="button_share">Share This Text</string>
+    <string name="title_activity_p06_click_image">P06ActivityClickImage</string>
+
+    <string name="intro_text">Droid Desserts</string>
+    <string name="choose_a_dessert">Choose a dessert</string>
+    <string name="donuts">"Donuts are glazed and sprinkled with candy."</string>
+    <string name="ice_cream_sandwiches">"Ice cream sandwiches have chocolate wafers and vanilla filling."</string>
+    <string name="froyo">"FroYo is premium self-serve frozen yogurt."</string>
+
+    <string name="donut_order_message">You ordered a donut.</string>
+    <string name="ice_cream_order_message">You ordered an ice cream sandwich.</string>
+    <string name="froyo_order_message">You ordered a FroYo.</string>
+
+    <string name="action_order_message">You selected Order.</string>
+    <string name="action_status_message">You selected Status.</string>
+    <string name="action_favorites_message">You selected Favorites.</string>
+    <string name="action_contact_message">You selected Contact.</string>
+
+</resources>
